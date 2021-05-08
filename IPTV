@@ -1,0 +1,91 @@
+EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais Abertos",Record
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-b.m3u8
+
+EXTINF:-1 tvg-logo=""Canais Abertos",TV Cultura 
+
+EXTINF:-1 tvg-logo=""Canais Abertos",TV Brasil 
+
+EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png"Canais Abertos",Band 
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w518916585.m3u8
+EXTINF:-1 tvg-logo=""Canais Abertos",Rede TV 
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+EXTINF:-1 tvg-logo=""Infantis",Cartoon Network 
+http://69.162.89.182:8081/live/infantil_cartoonnetwork/l_557467_39162301_8669.ts?nimblesessionid=10179750&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgMjoyNDowNCBBTSZoYXNoX3ZhbHVlPXhhUGFaUS9zTWozTzRXZThDeWlkclE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+EXTINF:-1 tvg-logo=""Infantis",Boomerang 
+http://69.162.89.182:8081/live/infantil_boomerang/l_556234_71485133_11056.ts?nimblesessionid=10179695&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgMjoyMzoxNyBBTSZoYXNoX3ZhbHVlPXlzdkxsN0UreWRwU2RLR3dqcFFGbXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+EXTINF:-1 tvg-logo=""Infatis",Disney Junior 
+http://69.162.89.182:8081/live/infantil_disneyjr/l_556408_71604166_10961.ts?nimblesessionid=10179799&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgMjoyNTowNSBBTSZoYXNoX3ZhbHVlPXZ0NDNOTkJMSkZ2bUtvM1ZYaUtaU1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+EXTINF:-1 tvg-logo=""Filmes,Telecine Action 
+
+EXTINF:-1 tvg-logo=""Fimes,HBO  
+
+EXTINF:-1 tvg-logo=""Filmes,Telecine Premium  
+
+EXTINF:-1 tvg-logo=""Filmes,Hbo 2
+
+EXTINF:-1 tvg-logo=""Filmes,HBO Xtreme 
+
+EXTINF:-1 tvg-logo=""Filmes,Megapix 
+
+EXTINF:-1 tvg-logo=""Infantis,Nickelodeon 
+
+EXTINF:-1 tvg-logo=""Infatis,Gloob 
+
+EXTINF:-1 tvg-logo=""Infantis,Gloobinho 
+
+EXTINF:-1 tvg-logo=""24hs,Pica Pau 24hs 
+
+EXTINF:-1 tvg-logo=""Infantis,Nick Jr 
+
+EXTINF:-1 tvg-logo=""Infatis,TV Rรก Tim Bum 
+
+EXTINF:-1 tvg-logo=""Variedades,Multishow 
+
+EXTINF:-1 tvg-logo=""Variedades,Viva 
+
+EXTINF:-1 tvg-logo=""Filmes,AMC 
+
+EXTINF:-1 tvg-logo=""Filmes,A&E
+
+EXTINF:-1 tvg-logo=""Canais Abertos,Canal Brasil 
+
+EXTINF:-1 tvg-logo=""Filmes,Cinemax 
+
+EXTINF:-1 tvg-logo=""Filmes,Telecine Fun 
+
+EXTINF:-1 tvg-logo=""Filmes,Telecine Pipoca 
+
+EXTINF:-1 tvg-logo=""Filmes,Telecine Touch 
+
+EXTINF:-1 tvg-logo=""Filmes,HBO POP 
+
+EXTINF:-1 tvg-logo=""Filmes,HBO Family 
+
+EXTINF:-1 tvg-logo=""Filmes,HBO Mundi 
+
+EXTINF:-1 tvg-logo=""Filmes,HBO Plus 
+
+EXTINF:-1 tvg-logo=""Filmes,Space 
+
+EXTINF:-1 tvg-logo=""Filmes",Paramount 
+
+EXTINF:-1 tvg-logo=""Filmes,Star Channel 
+
+EXTINF:-1 tvg-logo=""Filmes,Cine Sky 1 
+
+EXTINF:-1 tvg-logo=""Filmes,Cine Sky 2 
+
+EXTINF:-1 tvg-logo=""Infatis,Disney Channel 
+
+EXTINF:-1 tvg-logo=""Infantis,Disney Junior 
+
+EXTINF:-1 tvg-logo=""Canais Abertos,TV Pai Eterno 
+http://69.162.89.182:8081/live/religioso_redepaieterno/l_561655_33402902_5567.ts?nimblesessionid=10192708&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgMTI6MTM6MjMgUE0maGFzaF92YWx1ZT1rcEc5L0JLWCtNYUlHZG5jSGlRVU1RPT0mdmFsaWRtaW51dGVzPTI=
+EXTINF:-1 tvg-logo=""Canais Abertos,Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+EXTINF:-1 tvg-logo=""Canais Abertos",Sbt
+http://69.162.89.182:8081/live/tvaberta_sbt/l_562849_20413066_3076.ts?nimblesessionid=10192616&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgMTI6MTE6MjggUE0maGFzaF92YWx1ZT1GUGpyekc1R0FRWmpHK2ZYMUN5RENnPT0mdmFsaWRtaW51dGVzPTI=
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/1280px-TVE_Bahia_logo.svg.png" group-title="Canais Abertos",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95xz9bpv3j62gdDSN7ZIsYA0AfWvKHZuGuw&usqp=CAU"Canais Abertos",TV Bahia
+http://69.162.89.182:8081/live/infantil_disneyjr/l_556408_71604166_10961.ts?nimblesessionid=10179799&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgMjoyNTowNSBBTSZoYXNoX3ZhbHVlPXZ0NDNOTkJMSkZ2bUtvM1ZYaUtaU1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
